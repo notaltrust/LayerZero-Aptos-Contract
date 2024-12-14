@@ -6,6 +6,6 @@ version = "0.0.1"
 zro = "_"
 
 [dependencies.MoveStdlib]
-git = "https://github.com/notaltrust/LayerZero-Aptos-Contract.git"
+git = "https://github.com/aptos-labs/aptos-framework.git"
 subdir = "move-stdlib"
 rev = "main"
